@@ -1,0 +1,14 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\bin\Debug\net8.0\MeetIndTheMiddle.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\bin\Debug\net8.0\MeetIndTheMiddle.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\bin\Debug\net8.0\MeetIndTheMiddle.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\bin\Debug\net8.0\MeetIndTheMiddle.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\bin\Debug\net8.0\MeetIndTheMiddle.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\MeetIndTheMiddle.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\MeetIndTheMiddle.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\MeetIndTheMiddle.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\MeetIndTheMiddle.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\MeetIndTheMiddle.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\refint\MeetIndTheMiddle.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\MeetIndTheMiddle.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\MeetIndTheMiddle.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\MeetIndTheMiddle\obj\Debug\net8.0\ref\MeetIndTheMiddle.dll
