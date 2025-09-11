@@ -1,0 +1,15 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\bin\Debug\net8.0\7-XoLineProblems.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\bin\Debug\net8.0\7-XoLineProblems.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\bin\Debug\net8.0\7-XoLineProblems.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\bin\Debug\net8.0\7-XoLineProblems.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\bin\Debug\net8.0\7-XoLineProblems.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\7-XoLineProblems.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\7-XoLineProblems.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\7-XoLineProblems.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\7-XoLineProblems.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\7-XoLineProblems.sourcelink.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\7-XoLineProblems.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\refint\7-XoLineProblems.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\7-XoLineProblems.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\7-XoLineProblems.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\7-XoLineProblems\obj\Debug\net8.0\ref\7-XoLineProblems.dll
