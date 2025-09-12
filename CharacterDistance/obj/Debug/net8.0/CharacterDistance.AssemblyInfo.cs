@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharacterDistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4064ac828cb0e6dac964c7fe3bf2197c75ed1113")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharacterDistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharacterDistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
