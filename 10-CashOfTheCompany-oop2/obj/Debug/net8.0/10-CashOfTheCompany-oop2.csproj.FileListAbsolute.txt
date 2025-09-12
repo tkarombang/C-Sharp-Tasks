@@ -1,0 +1,15 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\bin\Debug\net8.0\10-CashOfTheCompany-oop2.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\bin\Debug\net8.0\10-CashOfTheCompany-oop2.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\bin\Debug\net8.0\10-CashOfTheCompany-oop2.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\bin\Debug\net8.0\10-CashOfTheCompany-oop2.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\bin\Debug\net8.0\10-CashOfTheCompany-oop2.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\10-CashOfTheCompany-oop2.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\10-CashOfTheCompany-oop2.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\10-CashOfTheCompany-oop2.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\10-CashOfTheCompany-oop2.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\10-CashOfTheCompany-oop2.sourcelink.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\10-CashOfTheCompany-oop2.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\refint\10-CashOfTheCompany-oop2.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\10-CashOfTheCompany-oop2.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\10-CashOfTheCompany-oop2.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\10-CashOfTheCompany-oop2\obj\Debug\net8.0\ref\10-CashOfTheCompany-oop2.dll

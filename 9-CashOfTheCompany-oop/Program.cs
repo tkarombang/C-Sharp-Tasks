@@ -17,14 +17,14 @@ namespace _9_CashOfTheCompany_oop
 
       objCompany.GetCompanyStatus();
 
-      Employee objEmployeeDayat = new Employee("Dayat", "IT", 5000000);
-      objCompany.AddEmployee(objEmployeeDayat);
-      Employee objEmployeeAnwar = new Employee("Anwar", "Lead", 8000000);
-      objCompany.AddEmployee(objEmployeeDayat);
+      // Employee objEmployeeDayat = new Employee("Dayat", "IT", 5000000);
+      // objCompany.AddEmployee(objEmployeeDayat);
+      // Employee objEmployeeAnwar = new Employee("Anwar", "Lead", 8000000);
+      // objCompany.AddEmployee(objEmployeeDayat);
 
-      objCompany.SetMonth = 1;
+      // objCompany.SetMonth = 1;
 
-      objCompany.GetCompanyStatus();
+      // objCompany.GetCompanyStatus();
 
 
     }

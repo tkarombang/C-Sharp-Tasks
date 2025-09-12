@@ -1,23 +1,5 @@
 using System;
 
-class Employee
-{
-  private string Name;
-  private string JobPosition;
-  private int Salary;
-
-  public Employee(string name, string jobPosition, int salary)
-  {
-    this.Name = name;
-    this.JobPosition = jobPosition;
-    this.Salary = salary;
-  }
-
-  public int GetSalary
-  {
-    get { return Salary; }
-  }
-}
 
 class Company
 {
@@ -64,6 +46,26 @@ class Company
   }
 }
 
+
+
+class Employee
+{
+  private string Name;
+  private string JobPosition;
+  private int Salary;
+
+  public Employee(string name, string jobPosition, int salary)
+  {
+    this.Name = name;
+    this.JobPosition = jobPosition;
+    this.Salary = salary;
+  }
+
+  public int GetSalary
+  {
+    get { return Salary; }
+  }
+}
 
 // class RecreateCompanyPt1
 // {
