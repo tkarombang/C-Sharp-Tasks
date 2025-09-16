@@ -1,0 +1,15 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\bin\Debug\net8.0\16-MultipleThreeAndSeven.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\bin\Debug\net8.0\16-MultipleThreeAndSeven.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\bin\Debug\net8.0\16-MultipleThreeAndSeven.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\bin\Debug\net8.0\16-MultipleThreeAndSeven.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\bin\Debug\net8.0\16-MultipleThreeAndSeven.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\16-MultipleThreeAndSeven.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\16-MultipleThreeAndSeven.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\16-MultipleThreeAndSeven.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\16-MultipleThreeAndSeven.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\16-MultipleThreeAndSeven.sourcelink.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\16-MultipleThreeAndSeven.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\refint\16-MultipleThreeAndSeven.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\16-MultipleThreeAndSeven.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\16-MultipleThreeAndSeven.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\16-MultipleThreeAndSeven\obj\Debug\net8.0\ref\16-MultipleThreeAndSeven.dll
