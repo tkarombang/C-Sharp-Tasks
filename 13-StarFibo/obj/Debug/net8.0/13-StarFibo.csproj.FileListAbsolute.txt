@@ -1,0 +1,15 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\bin\Debug\net8.0\13-StarFibo.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\bin\Debug\net8.0\13-StarFibo.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\bin\Debug\net8.0\13-StarFibo.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\bin\Debug\net8.0\13-StarFibo.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\bin\Debug\net8.0\13-StarFibo.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\13-StarFibo.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\13-StarFibo.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\13-StarFibo.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\13-StarFibo.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\13-StarFibo.sourcelink.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\13-StarFibo.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\refint\13-StarFibo.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\13-StarFibo.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\13-StarFibo.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\13-StarFibo\obj\Debug\net8.0\ref\13-StarFibo.dll
