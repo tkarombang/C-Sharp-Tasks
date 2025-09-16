@@ -1,0 +1,15 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\bin\Debug\net8.0\11-MirrorPrimeNumbers.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\bin\Debug\net8.0\11-MirrorPrimeNumbers.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\bin\Debug\net8.0\11-MirrorPrimeNumbers.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\bin\Debug\net8.0\11-MirrorPrimeNumbers.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\bin\Debug\net8.0\11-MirrorPrimeNumbers.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\11-MirrorPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\11-MirrorPrimeNumbers.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\11-MirrorPrimeNumbers.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\11-MirrorPrimeNumbers.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\11-MirrorPrimeNumbers.sourcelink.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\11-MirrorPrimeNumbers.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\refint\11-MirrorPrimeNumbers.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\11-MirrorPrimeNumbers.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\11-MirrorPrimeNumbers.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\11-MirrorPrimeNumbers\obj\Debug\net8.0\ref\11-MirrorPrimeNumbers.dll

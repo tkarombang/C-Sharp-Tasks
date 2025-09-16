@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-CashOfTheCompany-oop", "9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-CashOfTheCompany-oop2", "10-CashOfTheCompany-oop2\10-CashOfTheCompany-oop2.csproj", "{AFC00BEE-845C-4BAD-8F71-F271A0FB66D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-MirrorPrimeNumbers", "11-MirrorPrimeNumbers\11-MirrorPrimeNumbers.csproj", "{824394D9-65B6-4EE4-AEA2-AC263D0AB54F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{AFC00BEE-845C-4BAD-8F71-F271A0FB66D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC00BEE-845C-4BAD-8F71-F271A0FB66D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC00BEE-845C-4BAD-8F71-F271A0FB66D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824394D9-65B6-4EE4-AEA2-AC263D0AB54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824394D9-65B6-4EE4-AEA2-AC263D0AB54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824394D9-65B6-4EE4-AEA2-AC263D0AB54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824394D9-65B6-4EE4-AEA2-AC263D0AB54F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
