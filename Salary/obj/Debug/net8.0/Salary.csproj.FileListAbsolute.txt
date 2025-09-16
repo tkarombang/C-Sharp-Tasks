@@ -7,6 +7,7 @@ F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\Salary\obj
 F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\Salary\obj\Debug\net8.0\Salary.AssemblyInfoInputs.cache
 F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\Salary\obj\Debug\net8.0\Salary.AssemblyInfo.cs
 F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\Salary\obj\Debug\net8.0\Salary.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\Salary\obj\Debug\net8.0\Salary.sourcelink.json
 F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\Salary\obj\Debug\net8.0\Salary.dll
 F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\Salary\obj\Debug\net8.0\refint\Salary.dll
 F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\Salary\obj\Debug\net8.0\Salary.pdb
