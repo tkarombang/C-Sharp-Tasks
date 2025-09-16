@@ -1,0 +1,15 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\bin\Debug\net8.0\12-PageNumbering.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\bin\Debug\net8.0\12-PageNumbering.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\bin\Debug\net8.0\12-PageNumbering.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\bin\Debug\net8.0\12-PageNumbering.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\bin\Debug\net8.0\12-PageNumbering.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\12-PageNumbering.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\12-PageNumbering.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\12-PageNumbering.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\12-PageNumbering.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\12-PageNumbering.sourcelink.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\12-PageNumbering.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\refint\12-PageNumbering.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\12-PageNumbering.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\12-PageNumbering.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\12-PageNumbering\obj\Debug\net8.0\ref\12-PageNumbering.dll
