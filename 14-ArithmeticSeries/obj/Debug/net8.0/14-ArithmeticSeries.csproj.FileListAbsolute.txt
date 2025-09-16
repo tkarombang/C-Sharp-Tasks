@@ -1,0 +1,15 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\bin\Debug\net8.0\14-ArithmeticSeries.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\bin\Debug\net8.0\14-ArithmeticSeries.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\bin\Debug\net8.0\14-ArithmeticSeries.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\bin\Debug\net8.0\14-ArithmeticSeries.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\bin\Debug\net8.0\14-ArithmeticSeries.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\14-ArithmeticSeries.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\14-ArithmeticSeries.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\14-ArithmeticSeries.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\14-ArithmeticSeries.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\14-ArithmeticSeries.sourcelink.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\14-ArithmeticSeries.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\refint\14-ArithmeticSeries.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\14-ArithmeticSeries.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\14-ArithmeticSeries.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\14-ArithmeticSeries\obj\Debug\net8.0\ref\14-ArithmeticSeries.dll
