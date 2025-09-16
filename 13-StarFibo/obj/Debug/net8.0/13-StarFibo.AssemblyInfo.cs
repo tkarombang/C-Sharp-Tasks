@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("13-StarFibo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d3c4322d4c88adb541fe0f2099b5a1ff15013a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ed7b1705198fc40299df8632d1fcc7510fbf225")]
 [assembly: System.Reflection.AssemblyProductAttribute("13-StarFibo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("13-StarFibo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,6 +15,7 @@ namespace _15_NumberOnly
       Console.WriteLine(IsNUmberOnly("12345"));
       Console.WriteLine(IsNUmberOnly("12a45"));
       Console.WriteLine(IsNUmberOnly("abcdase"));
+
     }
   }
 }

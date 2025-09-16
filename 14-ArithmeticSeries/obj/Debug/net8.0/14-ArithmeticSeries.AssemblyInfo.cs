@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14-ArithmeticSeries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+483d6e673600949e889bc62d79a22f6e6bf0389f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ed7b1705198fc40299df8632d1fcc7510fbf225")]
 [assembly: System.Reflection.AssemblyProductAttribute("14-ArithmeticSeries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14-ArithmeticSeries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
