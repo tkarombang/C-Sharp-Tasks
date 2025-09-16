@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-StarFibo", "13-StarFibo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-ArithmeticSeries", "14-ArithmeticSeries\14-ArithmeticSeries.csproj", "{44A957FF-C9F4-476E-99C2-354D7973002B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-NumberOnly", "15-NumberOnly\15-NumberOnly.csproj", "{F6202221-9667-4BFB-A403-962FA16647D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,9 @@ Global
 		{44A957FF-C9F4-476E-99C2-354D7973002B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44A957FF-C9F4-476E-99C2-354D7973002B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44A957FF-C9F4-476E-99C2-354D7973002B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6202221-9667-4BFB-A403-962FA16647D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6202221-9667-4BFB-A403-962FA16647D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6202221-9667-4BFB-A403-962FA16647D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6202221-9667-4BFB-A403-962FA16647D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

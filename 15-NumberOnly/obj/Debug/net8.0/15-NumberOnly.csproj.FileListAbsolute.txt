@@ -1,0 +1,15 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\bin\Debug\net8.0\15-NumberOnly.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\bin\Debug\net8.0\15-NumberOnly.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\bin\Debug\net8.0\15-NumberOnly.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\bin\Debug\net8.0\15-NumberOnly.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\bin\Debug\net8.0\15-NumberOnly.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\15-NumberOnly.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\15-NumberOnly.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\15-NumberOnly.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\15-NumberOnly.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\15-NumberOnly.sourcelink.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\15-NumberOnly.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\refint\15-NumberOnly.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\15-NumberOnly.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\15-NumberOnly.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Tasks\15-NumberOnly\obj\Debug\net8.0\ref\15-NumberOnly.dll
