@@ -24,10 +24,10 @@ namespace _14_ArithmeticSeries
       int nIn = 0;
       bool input = int.TryParse(Console.ReadLine(), out nIn);
 
-      // if (nIn <= 0 || nIn >= 100)
-      // {
-      //   Console.WriteLine("Wrong Input " + nIn);
-      // }
+      if (nIn <= 0 || nIn >= 100)
+      {
+        Console.WriteLine("Wrong Input " + nIn);
+      }
 
       int n1 = 2;
       int n2 = 5;
@@ -37,9 +37,18 @@ namespace _14_ArithmeticSeries
       List<int> gabung = new List<int>();
       for (int i = 0; gabung.Count < nIn; i++)
       {
-        gabung.Add(n1);
-        gabung.Add(n2);
-        gabung.Add(n3);
+        if (gabung.Count < nIn)
+        {
+          gabung.Add(n1);
+        }
+        if (gabung.Count < nIn)
+        {
+          gabung.Add(n2);
+        }
+        if (gabung.Count < nIn)
+        {
+          gabung.Add(n3);
+        }
 
         n1++;
         n2++;
