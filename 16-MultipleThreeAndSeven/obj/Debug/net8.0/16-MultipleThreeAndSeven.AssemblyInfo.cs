@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16-MultipleThreeAndSeven")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ad74bd9ab8838db7a01c60b684ea6ff3ac4ae0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+796cebe509854c6c8f0db2f964165f3249f6fbaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("16-MultipleThreeAndSeven")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16-MultipleThreeAndSeven")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

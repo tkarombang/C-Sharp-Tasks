@@ -12,7 +12,7 @@ namespace _13_StarFibo
       //   Console.WriteLine(FiboSequence.FibSeq(i));
       // }
 
-      FiboStar.CetakFiboStar(101, 2);
+      FiboStar.CetakFiboStar(10, 3);
 
       
     }
